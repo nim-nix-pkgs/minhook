@@ -182,11 +182,11 @@
       },
       "locked": {
         "dir": "main",
-        "lastModified": 1668775937,
-        "narHash": "sha256-Gxl1JJWzc90eD8Pao9bq32pHLF/MjvS4V8fnKleudmY=",
+        "lastModified": 1669431207,
+        "narHash": "sha256-kj7oxD7OcPPacdr0h/rrg4Fb6hQun6VplInW9ICGYMo=",
         "owner": "nim-nix-pkgs",
         "repo": "minhook",
-        "rev": "37dad04a53cc13a9ce744d62117e460264ca9694",
+        "rev": "7762a7ee44ddcdd223636e201222c74f44a2770d",
         "type": "github"
       },
       "original": {
